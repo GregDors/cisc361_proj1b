@@ -1,0 +1,10 @@
+To run my code you must do the following:
+1. make
+2. run ./mycp [source file name] [destination file name]
+3. if [destination file name] does not already exist it should create it for you
+4. if [destination file name] dies exist, then it will ask you if you want to overwrite [destination file name]
+4a. if you choose yes, it will overwrite the file [destination file name] to be a copy of [source file name]
+4a. if you choose no, it will exit the program without changing the contents of the file [destination file name]
+
+
+I also included files I used for testing my code
